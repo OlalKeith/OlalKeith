@@ -4,8 +4,8 @@ My name is james olal, I am Software developer and an aspiring ethical hacker.
 
 ### Where to find me:
 <p align="left">
-<a href="http://twitter.com/OlalKeith" target="blank"><img align="center" src="https://github.com/OlalKeith/OlalKeith/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/OlalKeith" target="blank"><img align="center" src="https://github.com/OlalKeith/OlalKeith/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://twitter.com/OlalKeith" target="blank"><img align="center" src="https://github.com/OlalKeith/OlalKeith/blob/main/socials/twitter.png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/OlalKeith" target="blank"><img align="center" src="https://github.com/OlalKeith/OlalKeith/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
 
 
