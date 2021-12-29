@@ -16,5 +16,5 @@ My name is james olal, I am a Software developer and an aspiring ethical hacker.
 [Medium blog articles](https://medium.com/@OlalJames)
 
 ### Some Fun Facts about me:
-I enjoy playing football, ocassionally read books and listen to podcasts. Some of my favorite podcasts are The darknet diaries and the Jordan Harbinger Show, just to name a few.For my love of watching anime's , I recently started learning japanese!.
+I enjoy playing football, watching anime's, ocassionally read books and listen to podcasts.
 
