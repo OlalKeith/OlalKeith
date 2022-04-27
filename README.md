@@ -1,7 +1,7 @@
 # Hello everyone ,
 
 
-My name is james olal, I am a Software developer and an aspiring Penetration Tester.
+I am a Software developer, project manager and a Penetration Tester.
 
 ### Where to find me:
 <p align="left">
