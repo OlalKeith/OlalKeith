@@ -1,7 +1,7 @@
 # Hello everyone ,
 
 
-I am a Software developer, project manager and a Penetration Tester.
+Professional with 5 years of progressive experience in Software development with 2 years experience in web security, network security, and penetration testing. Domain expertise in software project management and product development.
 
 ### Where to find me:
 <p align="left">
