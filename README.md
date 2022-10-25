@@ -1,7 +1,7 @@
 # Hello everyone ,
 
 
-Professional with 5 years of progressive experience in Software development with 2 years experience in web security, network security, and penetration testing. Domain expertise in software project management and product development.
+Professional with 5 years of progressive software development experience, as well as 2 years of web security, network security, vulnerability assessment, and penetration testing. Experienced in software project management and product development, with a track record of seeing projects through to completion.
 
 ### Where to find me:
 <p align="left">
