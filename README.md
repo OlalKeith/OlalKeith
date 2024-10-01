@@ -1,4 +1,4 @@
-# Hello everyone ,
+# Hi 👋, I'm Olal
 
 
 Versatile developer with expertise in software, security, and project management.
