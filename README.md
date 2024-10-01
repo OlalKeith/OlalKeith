@@ -1,7 +1,7 @@
 # Hello everyone ,
 
 
-Professional with 5 years of progressive software development experience, as well as 2 years of web security, network security, vulnerability assessment, and penetration testing. Experienced in software project management and product development, with a track record of seeing projects through to completion.
+Versatile developer with expertise in software, security, and project management.
 
 ### Where to find me:
 <p align="left">
@@ -16,5 +16,5 @@ Professional with 5 years of progressive software development experience, as wel
 [Medium blog articles](https://medium.com/@OlalJames)
 
 ### Some Fun Facts about me:
-I enjoy playing football, watching anime's, ocassionally read books and listen to podcasts.
+I play football, watch anime's.
 
