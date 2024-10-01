@@ -15,6 +15,3 @@ Versatile developer with expertise in software, security, and project management
 ### Read, and catch up on my blog:
 [Medium blog articles](https://medium.com/@OlalJames)
 
-### Some Fun Facts about me:
-I play football, watch anime's.
-
