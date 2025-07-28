@@ -1,7 +1,7 @@
 # Hi 👋, I'm Olal
 
 
-Seasoned developer adept in software engineering, security, and project/product management.
+Seasoned developer adept in software engineering, security, and project/product management. Currently building [Vxnta AI](www.usevxnta.com/)
 
 ### Where to find me:
 <p align="left">
