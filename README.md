@@ -1,6 +1,10 @@
 # Hi 👋, I'm Olal
 
-Seasoned developer adept in software engineering, security, and project/product management.
+I'm a software engineer who understands business operations and users.
+
+I build software products and business systems that solve practical problems, with experience across full stack development, backend systems, ERP, payment integrations, and product development.
+
+My main tools include React, Next.js, Node.js, TypeScript, Python, FastAPI, PostgreSQL, and Google Cloud.
 
 ### Where to find me:
 
